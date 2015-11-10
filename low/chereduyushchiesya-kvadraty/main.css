@@ -1,0 +1,23 @@
+.body {
+	width: 100%;
+}
+.square {
+	margin: 0 38%;
+}
+.square div {
+	margin: 5px;
+	display: inline-block;
+	width: 75px;
+	height: 75px;
+}
+.square div:nth-child(odd) {
+	background: black;
+}
+
+.square div:nth-child(even) {
+	background: #009ABF;
+}
+.square div:hover {
+	background: #FF9F19;
+}
+

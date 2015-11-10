@@ -1,0 +1,13 @@
+.koren {
+	width: 600px;
+	height: 80px;
+	border: 1px solid #D7B262;
+	margin: 10px auto;	
+}
+.koren p {
+	text-align: center;
+	font-size: 25px;
+}
+.koren span {
+	border-top: 2px solid black;
+}

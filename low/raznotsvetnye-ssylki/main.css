@@ -1,0 +1,23 @@
+.all {
+	width: 100%;
+	background: #333333;
+	
+}
+.all a:not(:last-child) {
+	display: inline-block;
+	border-right: 1px solid white;
+	
+}
+.all a{
+	margin: 10px 0 10px 10px;	
+	padding-right: 10px;
+}
+.all a:first-child{
+	color: red;
+}
+.all a:nth-child(2){
+	color: skyblue;
+}
+.all a:last-child {
+	color: yellow;
+}

@@ -1,0 +1,15 @@
+.vyvorot {
+	background: red;
+	color: white;
+	padding-top: 30px;
+	
+
+}
+p{
+	font-family: Impact;
+	font-size: 70px;
+	margin-left: 20px;
+	display: block;
+	position: relative;
+	top:15px;
+}	

@@ -1,0 +1,19 @@
+.button {
+	width: 160px;
+	height: 40px;
+	background: linear-gradient(#FFB3D6 15%, #FFC4DF,#FFB3D6 85%);
+	margin: 10px auto;
+	border: 2px solid white;
+	border-radius: 20px;
+	box-shadow: 0 0 0 3px #FFB3D6,
+				0 0 10px 2px gray;
+}
+.button:before {
+	display: block;
+	position: relative;
+	content: "Кнопка";
+	font-family: Arial;
+	font-size: 20px;
+	top: 7px;
+	left: 47px;
+}

@@ -1,0 +1,40 @@
+.main {
+	width: 450px;
+	margin: 0 auto;
+}
+.main div {
+	display: inline-block;
+	height: 25px;
+	margin: 10px auto 0 auto;
+	border-radius: 7px;
+	padding-top: 5px;
+	padding-left: 5px;
+
+}
+.first{
+	width: 135px;
+	border: 1px solid #666666;
+	background: linear-gradient(to bottom, #03BCD9, white);
+}
+.second {
+	width: 135px;
+	border: 1px solid #666666;
+	background: linear-gradient(to bottom, #46E35E, #39B84D, #46E35E);
+}
+.third{
+	width: 185px;
+	border: 1px solid #666666;
+	color: white;
+	background: linear-gradient(to top, #03BCD9 70%, white);
+}
+.fourth{
+	width: 175px;
+	border: 1px solid #666666;
+	color: white;
+	background: linear-gradient(to bottom, #E8E8E9, #575656 65%, black 65%);
+}
+.fifth{
+	width: 160px;
+	border: 2px inset #666666;
+	background: linear-gradient(to bottom, #E6E7E8, #C9C9CA);
+}

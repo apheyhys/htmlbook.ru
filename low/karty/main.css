@@ -1,0 +1,14 @@
+.first:before {
+	content: "\2660";
+}
+.second:before {
+	content: "\2663";
+}
+.third:before {
+	content: "\2666";
+	color: red;
+}
+.four:before {
+	content: "\2665";
+	color: red;
+}

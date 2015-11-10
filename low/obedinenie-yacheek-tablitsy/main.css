@@ -1,0 +1,16 @@
+table {
+	border: 3px double black;
+	margin: 20px;
+}
+td{
+	padding: 5px 10px;
+	padding-right: 30px;
+	border: 3px double black;
+	text-align: left;
+}
+.al {
+	text-align: center;	
+}
+th{
+	border: 3px double black;
+}

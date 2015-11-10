@@ -1,0 +1,21 @@
+.pager li {
+	display: inline-block;
+}
+.item-list {
+	width: 100%;
+	height: 35px;
+	background: #F0F0F0;
+	border-bottom: 4px solid #CCCCCC;
+
+}
+.pager li a{
+	text-decoration: none;
+	color: #720000;
+	display: block;
+	padding: 10px 15px;
+}
+.pager span {
+	padding: 10px 15px 6px 15px;
+	border-bottom: 4px solid black;
+	background: #CCCCCC;
+}

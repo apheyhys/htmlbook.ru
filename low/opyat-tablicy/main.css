@@ -1,0 +1,52 @@
+body{
+	display: block;
+	background: #001646;
+	font-family: Arial;
+	color:white;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -100px -385px;
+	width: 970px;
+	height: 280px;
+
+}
+
+nav {
+	font-weight: bold;
+	font-size: 20px;
+}
+nav li {
+	padding: 10px 5px 10px 0;
+	list-style-type: none;
+	font-size: 1em;
+	font-family: Verdana;
+}
+
+aside {
+	display: block;
+	background: black;
+	width: 200px;
+	float: left;
+	
+}
+main {
+	background: black;
+	display: block;
+	height: 100%;
+	}
+footer {
+	clear: both;
+	background: #103898;
+	padding: 5px 0;
+	text-align: center;
+}
+article {
+	padding: 25px;
+	text-align: justify;
+	display: block;
+	position: absolute;
+	top: 60px;
+	left: 200px;
+
+}

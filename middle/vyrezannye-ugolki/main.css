@@ -1,0 +1,39 @@
+.main .angle {
+	display: block;
+	width: 370px;
+	height: 70px;
+	margin: 10px auto;
+	background: #008000;
+	color: white;
+}
+.main .angle:before {
+	content: "";
+	display: inline-block;
+	position: relative;
+	left: -5px;
+	top: 5px;
+	background: #008000;
+	width: 10px;
+	height: 60px;
+	
+}
+.main .angle:after {
+	content: "";
+	display: inline-block;
+	position: relative;
+	left: 355px;
+	top: 5px;
+	background: #008000;
+	width: 10px;
+	height: 60px;
+	
+}
+
+
+.angle p {
+	position: absolute;
+	display: inline-block;
+	margin: 25px 0;
+	font-family: serif;
+	}
+

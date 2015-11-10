@@ -1,0 +1,11 @@
+h1{
+	color: green;
+	font-weight: normal;
+	margin-left: 10px;
+	font-family: times;
+}
+p{
+	margin-left: 10px;
+	font-family: serif;
+	font-size: 16px;
+}

@@ -1,0 +1,24 @@
+.main {
+	width: 400px;
+	margin: 0 auto;
+}
+.up {
+	display: block;
+	background: #008B66;
+	color: white;
+	height: 50px;
+	width: 400px;
+	padding: 5px;
+
+}
+.down {
+	display: block;
+	position: relative;
+	top: -7px;
+	left: 29px;
+	width: 370px;
+	border: 1px solid white;
+	background: #DFE6E1;
+	padding: 5px;
+
+}

@@ -1,0 +1,17 @@
+table {
+	width: 100%;
+}
+.first {
+	color: white;
+	background: red;
+	width: 33%;
+}
+.second {
+	color: #80807F;
+	background: #FFA500;
+	width: 33%;
+}
+.third {
+	color: black;
+	background: #FFFF00;
+}

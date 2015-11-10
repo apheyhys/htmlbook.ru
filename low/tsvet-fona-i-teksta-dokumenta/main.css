@@ -1,0 +1,9 @@
+body {
+	background: #008800;
+	width: 33%;
+	margin: 0 auto;
+}
+
+h1, p {
+	color: white;
+}

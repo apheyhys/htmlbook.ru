@@ -1,0 +1,9 @@
+input[name="first"]:focus {
+	color: red;
+	border: 1px solid skyblue;
+	box-shadow: 0 0 5px 5px skyblue;
+}
+input[name="first"]{
+	width: 200px;
+	margin-right: 10px;
+}

@@ -1,0 +1,31 @@
+.tree{ 
+	width: 100%;
+}
+
+.tree  div{
+	width: 140px;
+	height: 50px;
+	border: 4px solid black;
+	margin: 10px auto;
+	display: block;
+}
+.tree div:before {
+	position: relative;
+	display: block;
+	left: 140px;
+	top: 16px;
+	background: black;
+	width: 10px;
+	height: 18px;
+	content: "";
+}
+
+.tree div:nth-child(1){
+	background: linear-gradient(to right, #ED1C24 35%, white 35%);
+}
+.tree div:nth-child(2){
+	background: linear-gradient(to right, #FFC60B 65%, white 65%);
+}
+.tree div:nth-child(3){
+	background: #00A055;
+}
